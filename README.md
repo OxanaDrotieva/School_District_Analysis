@@ -57,15 +57,15 @@ Comparing the old data analysis to new one with replaced data following question
 
   We can see that:
 
-  - the average math score  dropped by 0.06712 grade
+  - the average math score  **dropped** by 0.06712 grade
 
-  - the average reading score raised by 0.047152 grade
+  - the average reading score **raised** by 0.047152 grade
 
-  - percent of students who passed math reduced by 0.086481%
+  - percent of students who passed math **reduced** by 0.086481%
 
-  - percent of students who passed reading reduced by 0.29013%
+  - percent of students who passed reading **reduced** by 0.29013%
 
-  - percent of students who passed both math and reading reduced by 0.317688%
+  - percent of students who passed both math and reading **reduced** by 0.317688%
 
     
 
