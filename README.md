@@ -103,7 +103,7 @@ Comparing the old data analysis to new one with replaced data following question
 
     ![reading_scores_by_grade_new.png](./reading_scores_by_grade_new.png)
 
-    So replacing the ninth-grade scores of Thomas High School affects only "Thomas High School" "9th"-grade columns by replacing those values with "nan".
+    So replacing the ninth-grade scores of Thomas High School affects only "Thomas High School" "9th"-grade cells by replacing those values with "nan".
 
   - Scores by school spending
 
