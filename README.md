@@ -109,7 +109,9 @@ Comparing the old data analysis to new one with replaced data following question
 
     Before changing Thomas High School ninth-graders grades the scores by school spending were:
 
-    ![scores_by_school_spending_not formatted_old.png](./scores_by_school_spending_not formatted_old.png)
+    ![scores_by_school_spending_not_formatted_old.png](./scores_by_school_spending_not_formatted_old.png)
+
+    
 
     or after formatting:
 
@@ -117,19 +119,21 @@ Comparing the old data analysis to new one with replaced data following question
 
     After those changes we got:
 
-    ![scores_by_school_spending_not formatted_new.png](./scores_by_school_spending_not formatted_new.png)
+    ![scores_by_school_spending_not_formatted_new.png](./scores_by_school_spending_not_formatted_new.png)
+
+    
 
     and after formatting:
 
     ![scores_by_school_spending_new.png](./scores_by_school_spending_new.png)
-
+  
     Comparing these two tables we can see minor changes in $630-644 bin that are not seen after rounding off so we can conclude that replacing the ninth-grade Thomas High School scores did not significantly affect scores by school spending. 
-
+  
   - Scores by school size
   
     The initial table of school performance based on the school size is:
   
-    ![scores_by_school_size_not formatted_old.png](./scores_by_school_size_not formatted_old.png)
+    ![scores_by_school_size_not_formatted_old.png](./scores_by_school_size_not_formatted_old.png)
   
     Which after formatting looks like:
   
@@ -137,7 +141,7 @@ Comparing the old data analysis to new one with replaced data following question
   
     After replacing the ninth graders’ math and reading scores we got:
   
-    ![scores_by_school_size_not formatted_new.png](./scores_by_school_size_not formatted_new.png)
+    ![scores_by_school_size_not_formatted_new.png](./scores_by_school_size_not_formatted_new.png)
   
     Formatted:
   
@@ -149,7 +153,7 @@ Comparing the old data analysis to new one with replaced data following question
   
     The initial performance of the schools based on their type is:
   
-    ![scores_by_school_type_not formatted_old.png](./scores_by_school_type_not formatted_old.png)
+    ![scores_by_school_type_not_formatted_old.png](./scores_by_school_type_not_formatted_old.png)
   
     Which formatted is:
   
@@ -157,7 +161,7 @@ Comparing the old data analysis to new one with replaced data following question
   
     The updated one is:
   
-    ![scores_by_school_type_not formatted_new.png](./scores_by_school_type_not formatted_new.png)
+    ![scores_by_school_type_not_formatted_new.png](./scores_by_school_type_not_formatted_new.png)
   
     Formatted:
   
